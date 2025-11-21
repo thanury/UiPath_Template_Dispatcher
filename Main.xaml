@@ -104,7 +104,7 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <StateMachine InitialState="{x:Reference __ReferenceID3}" sap2010:Annotation.AnnotationText="[101_TekkenFighters_Dispatcher]&#xA;[Process that extracts the names of players.]" DisplayName="General Business Process" sap:VirtualizedContainerService.HintSize="1363,1033" sap2010:WorkflowViewState.IdRef="StateMachine_1">
+  <StateMachine InitialState="{x:Reference __ReferenceID3}" sap2010:Annotation.AnnotationText="[TekkenFighters_Dispatcher]&#xA;" DisplayName="General Business Process" sap:VirtualizedContainerService.HintSize="1363,1045" sap2010:WorkflowViewState.IdRef="StateMachine_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
