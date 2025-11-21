@@ -1,0 +1,6 @@
+{
+  "Name": "UiPath_TekkenFighters_Template_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}
